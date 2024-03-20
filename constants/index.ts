@@ -81,16 +81,19 @@ export const Skill_data = [
 
 export const Socials = [
   {
-    name: "Discord",
-    src: "/instagram.svg",
+    name: "Github",
+    src: "/github-svgrepo-com.svg",
+    link: "https://github.com/sawsen04",
   },
   {
     name: "Facebook",
     src: "/facebook.svg",
+    link: "https://www.facebook.com/sawsen.ayari.04/",
   },
   {
-    name: "Instagram",
-    src: "/discord.svg",
+    name: "linkedin",
+    src: "/linkedin-round-svgrepo-com.svg",
+    link: "https://www.linkedin.com/in/sawsen-ayari-b5011a189/",
   },
 ];
 
